@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.yarnpkg.com"
+    "registry": "http://localhost:4872"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
