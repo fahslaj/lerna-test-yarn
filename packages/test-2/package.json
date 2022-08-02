@@ -13,10 +13,18 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahslaj/lerna-test-yarn.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/fahslaj/lerna-test-yarn/issues"
+  },
+  "homepage": "https://github.com/fahslaj/lerna-test-yarn#readme"
 }
